@@ -1,0 +1,9 @@
+bin/
+build/
+dist/
+target/
+
+.idea
+*.iws
+*.iml
+.DS_Store
